@@ -96,9 +96,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- SAND
-- SASH
+cargoAcceptance: []
 cargoProduction:
 - GLAS
 colour: 151
