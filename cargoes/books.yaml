@@ -1,16 +1,16 @@
-abbreviation: TY
+abbreviation: BO
 available: true
 classes: 32
-colour: 10
+colour: 148
 id: 45
-label: TYRE
-longName: tyres
-name: Tyres
+label: BOOK
+longName: books
+name: Books
 penaltyLength: 247
 penaltyLowerBound: 8
-price: 6126
+price: 6209
 sprite:
-  filename: cargoes/tyres.png
+  filename: cargoes/books.png
   left: 0
   top: 0
 unitName: Tonnes
