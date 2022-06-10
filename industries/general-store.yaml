@@ -48,6 +48,7 @@ colour: 168
 fundCostMultiplier: 15
 id: 15
 layout:
+- - - 1
 - - - 0
 name: General Store
 placement: in-town
@@ -68,4 +69,17 @@ tiles:
       filename: industries/general-store/1.png
       left: -31
       top: -18
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/general-store/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/general-store/3.png
+      left: -31
+      top: 0
 type: tertiary
