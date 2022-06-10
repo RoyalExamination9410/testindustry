@@ -209,6 +209,7 @@ layout:
     - 3
   - - 5
     - 4
+- - - -1
 name: Coal Mine
 placement: anywhere
 probabilityInGame: 4
