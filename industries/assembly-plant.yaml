@@ -106,9 +106,8 @@ cargoAcceptance:
 - VENG
 - VPTS
 cargoProduction:
-- ENSP
-- FMSP
 - VEHI
+- MAIL
 colour: 141
 fundCostMultiplier: 145
 id: 0
