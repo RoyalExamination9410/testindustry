@@ -150,17 +150,13 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- CHLO
 - FOOD
-- POTA
+- BOOK
+- MAIL
 cargoProduction:
-- ALUM
-- FECR
-- MNO2
-- PLAS
-- RUBR
+- BOOK
 colour: 177
-fundCostMultiplier: 152
+fundCostMultiplier: 2
 id: 5
 layout:
 - - - -1
@@ -285,9 +281,9 @@ layout:
     - -1
 name: Bulk Terminal
 placement: on-water
-probabilityInGame: 2
-probabilityMapGen: 6
-prospectChance: 75
+probabilityInGame: 10
+probabilityMapGen: 30
+prospectChance: 50
 tiles:
 - sprites:
   - alwaysDraw: true
