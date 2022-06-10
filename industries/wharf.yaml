@@ -225,7 +225,7 @@ layout:
     - -1
     - -1
     - -1
-- - - -1
+- - - 5
     - -1
     - -1
     - -1
@@ -255,7 +255,7 @@ layout:
     - 1
     - 13
     - -1
-- - - 19
+- - - 6
     - 19
     - 27
     - 27
@@ -361,7 +361,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 4061
+      filename: industries/wharf/34.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
