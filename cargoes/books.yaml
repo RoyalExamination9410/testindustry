@@ -8,7 +8,7 @@ longName: books
 name: Books
 penaltyLength: 247
 penaltyLowerBound: 8
-price: 6209
+price: 6168
 sprite:
   filename: cargoes/books.png
   left: 0
