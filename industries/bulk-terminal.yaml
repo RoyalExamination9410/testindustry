@@ -150,8 +150,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- FOOD
 - BOOK
+- FOOD
 - MAIL
 cargoProduction:
 - BOOK
