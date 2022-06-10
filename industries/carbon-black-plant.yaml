@@ -95,10 +95,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- CTAR
-cargoProduction:
-- CBLK
+cargoAcceptance: []
+cargoProduction: []
 colour: 178
 fundCostMultiplier: 120
 id: 6
