@@ -143,8 +143,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ENSP
+cargoAcceptance: []
 cargoProduction:
 - COAL
 colour: 1
