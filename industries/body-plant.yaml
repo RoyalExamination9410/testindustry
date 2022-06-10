@@ -98,8 +98,6 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- GLAS
-- COAT
 - STSH
 cargoProduction:
 - VBOD
