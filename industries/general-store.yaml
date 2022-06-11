@@ -43,18 +43,19 @@ callbacks: |
   }
 cargoAcceptance:
 - FOOD
+- BOOK
 cargoProduction: []
 colour: 168
 fundCostMultiplier: 15
 id: 15
 layout:
-- - - 1
+- - - 0
 - - - 0
 name: General Store
 placement: in-town
 probabilityInGame: 12
-probabilityMapGen: 24
-prospectChance: 75
+probabilityMapGen: 30
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
