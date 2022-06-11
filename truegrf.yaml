@@ -1,7 +1,7 @@
-description: A new TrueGRF project based on FIRS Steeltown
+description: Test industry
 grfid: f1b436cb
 license: GPL-2.0
-name: testindustry
+name: testindustry f
 type: industry
 url: https://github.com/RoyalExamination9410/testindustry
 version: 6
