@@ -1,17 +1,17 @@
 abbreviation: NW
 available: false
 classes: 32
-colour: 14
+colour: 13
 id: 3
 label: NEWS
 longName: newspaper
 name: Newspaper
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 4564
 sprite:
   filename: cargoes/newspaper.png
   left: 0
   top: 0
 unitName: Items
-weight: 16
+weight: 1
