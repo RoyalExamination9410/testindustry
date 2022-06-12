@@ -6,7 +6,7 @@ id: 3
 label: NEWS
 longName: newspaper
 name: Newspaper
-penaltyLength: 255
+penaltyLength: 4
 penaltyLowerBound: 0
 price: 4564
 sprite:
