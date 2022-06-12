@@ -1,16 +1,16 @@
-abbreviation: NE
+abbreviation: NW
 available: false
 classes: 32
 colour: 1
 id: 3
-label: NEWC
-longName: 'new cargo #3'
-name: 'New Cargo #3'
+label: NEWS
+longName: newspaper
+name: Newspaper
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-3.png
+  filename: cargoes/newspaper.png
   left: 0
   top: 0
 unitName: Items
