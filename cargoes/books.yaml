@@ -1,14 +1,14 @@
 abbreviation: BO
 available: true
 classes: 32
-colour: 15
+colour: 60
 id: 45
 label: BOOK
 longName: books
 name: Books
-penaltyLength: 247
-penaltyLowerBound: 8
-price: 6168
+penaltyLength: 88
+penaltyLowerBound: 28
+price: 16448
 sprite:
   filename: cargoes/books.png
   left: 0
