@@ -144,16 +144,13 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ENSP
-cargoProduction:
-- POTA
-- SALT
+cargoAcceptance: []
+cargoProduction: []
 colour: 125
 fundCostMultiplier: 232
 id: 22
 layout:
-- - - -1
+- - - 4
     - 3
     - -1
     - 2
