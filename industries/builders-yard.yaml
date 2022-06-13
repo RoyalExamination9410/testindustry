@@ -47,14 +47,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- CMNT
-- GLAS
-- LIME
-- PIPE
-- SAND
-- STSE
-- STWR
+cargoAcceptance: []
 cargoProduction: []
 colour: 169
 fundCostMultiplier: 16
