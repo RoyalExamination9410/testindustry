@@ -144,8 +144,7 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance: []
-cargoProduction:
-- IORE
+cargoProduction: []
 colour: 55
 fundCostMultiplier: 232
 id: 17
