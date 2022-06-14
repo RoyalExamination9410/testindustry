@@ -99,14 +99,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ACID
-- STCB
-- SOAP
-cargoProduction:
-- ENSP
-- STSE
-- STWR
+cargoAcceptance: []
+cargoProduction: []
 colour: 43
 fundCostMultiplier: 120
 id: 30
