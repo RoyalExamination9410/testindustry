@@ -42,8 +42,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- BOOK
 - FOOD
+- BOOK
 cargoProduction: []
 colour: 168
 fundCostMultiplier: 15
