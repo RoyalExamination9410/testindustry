@@ -48,7 +48,6 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- FOOD
 - NEWS
 - PASS
 cargoProduction:
@@ -69,10 +68,11 @@ layout:
     - 0
   - - 1
     - 3
-- - - 0
+- - - 1
     - 2
   - - 0
     - 3
+- - - 0
 name: Park and Ride
 placement: anywhere
 probabilityInGame: 15
