@@ -98,11 +98,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- SALT
+- COAL
 cargoProduction:
-- ACID
-- CHLO
-- LYE_
+- COAL
 colour: 191
 fundCostMultiplier: 170
 id: 7
