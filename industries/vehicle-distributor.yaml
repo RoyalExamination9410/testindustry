@@ -42,7 +42,7 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- VEHI
+- MAIL
 cargoProduction: []
 colour: 207
 fundCostMultiplier: 8
@@ -64,7 +64,7 @@ name: Vehicle Distributor
 placement: anywhere
 probabilityInGame: 3
 probabilityMapGen: 10
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
