@@ -98,11 +98,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- ALUM
-- CSTI
-- SAND
+- COAL
 cargoProduction:
-- VENG
+- NEWS
 colour: 45
 fundCostMultiplier: 120
 id: 13
