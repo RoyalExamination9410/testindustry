@@ -1,4 +1,4 @@
-available: true
+available: false
 callbacks: |
   const type{
       accept_cargo_types cargodict
@@ -99,14 +99,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ACID
-- STCB
-- ZINC
-cargoProduction:
-- ENSP
-- PIPE
-- STSH
+cargoAcceptance: []
+cargoProduction: []
 colour: 160
 fundCostMultiplier: 120
 id: 24
