@@ -96,11 +96,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- LIME
-cargoProduction:
-- FMSP
-- QLME
+cargoAcceptance: []
+cargoProduction: []
 colour: 119
 fundCostMultiplier: 45
 id: 19
