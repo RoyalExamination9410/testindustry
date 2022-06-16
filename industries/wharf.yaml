@@ -1,4 +1,4 @@
-available: true
+available: false
 callbacks: |
   const type{
       level_requirements dict
@@ -150,11 +150,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- CMNT
-- PIPE
-- LYE_
-- STSE
+cargoAcceptance: []
 cargoProduction:
 - SOAP
 - POWR
