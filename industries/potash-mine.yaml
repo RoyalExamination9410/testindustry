@@ -144,7 +144,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance: []
+cargoAcceptance:
+- FOOD
 cargoProduction: []
 colour: 125
 fundCostMultiplier: 232
