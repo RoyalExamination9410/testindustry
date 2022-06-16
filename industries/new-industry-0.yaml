@@ -1,6 +1,9 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- BOOK
+- FOOD
+- MAIL
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 100
